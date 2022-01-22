@@ -2,7 +2,7 @@
 
 **Project description** : Convolutional Neural Networks(CNNs) to detect whether the driver is attentive using in-car camera images.
 
-Our team ConvHeads - Chaitanya, Himanshu, Aayush, Samyak has worked on this project as a part of [Univ.Ai](https://www.univ.ai/)'s AI-2 week long final project. Please find the repository [here](https://github.com/penguinKAL/Distracted-Driver-Detection-CNNs/)
+Our team ConvHeads - Chaitanya, Himanshu, Aayush, Samyak has worked on this project as a part of [Univ.Ai](https://www.univ.ai/)'s AI-2 week long final project. Please find the repository [here](https://github.com/penguinKAL/Distracted-Driver-Detection-CNNs/).
 
 Whether we are driving or in a passenger seat, we have seen drivers being distracted by a text on a phone, reaching behind for something, or having to attend a phone call.<br/>
 
