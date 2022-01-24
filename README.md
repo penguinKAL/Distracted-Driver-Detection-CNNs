@@ -13,3 +13,5 @@ We think that having a system that alerts the driver if they are distracted, is 
 ## Results
 The model predictions on real world images collected by us can be seen below.
 ![predictions](imgs/predictions_realworld.png)
+
+<a href='presentation.pdf'>click here for presentation</a>
